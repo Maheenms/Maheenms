@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maheenms
 - 👀 I’m interested in data analytics and data science.
-- 🌱 I’m currently learning about Tableu.
+- 🌱 I’m currently learning about Tableau.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me is through my email and phone number.
 
